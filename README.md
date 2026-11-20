@@ -238,3 +238,29 @@ Data Science Project
 ![Fleet Optimization 2](screenshots/fleet_optimization2.png)
 
 ![Fleet Optimization 3](screenshots/fleet_optimization3.png)
+
+
+## System Architecture
+
+```mermaid
+flowchart TD
+    A[NYC Yellow Taxi Trip Dataset] --> B[Data Cleaning and Validation]
+    B --> C[Feature Engineering]
+    C --> D[Demand Forecasting Model]
+    C --> E[Geospatial Analysis]
+    
+    D --> F[Random Forest Forecasting]
+    F --> G[SHAP Explainability]
+    
+    E --> H[DBSCAN Clustering]
+    H --> I[Pickup Hotspot Analysis]
+    
+    F --> J[FastAPI Backend]
+    I --> J
+    K[Fleet Allocation Optimization<br/>PuLP + HiGHS] --> J
+    
+    J --> L[Streamlit Dashboard]
+    L --> M[Urban Mobility Insights]
+    L --> N[Demand Forecasts]
+    L --> O[Fleet Optimization Results]
+```
