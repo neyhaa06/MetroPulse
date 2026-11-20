@@ -208,3 +208,33 @@ MetroPulse demonstrates an integrated Data Science workflow combining data proce
 ## Developer
 
 Data Science Project
+
+
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard1.png)
+
+![Dashboard Overview - Additional View](screenshots/dashboard2.png)
+
+### Demand Forecasting
+![Demand Forecasting](screenshots/demand_forecasting.png)
+
+### Geospatial Analysis
+![Geospatial Analysis 1](screenshots/geospatial_analysis1.png)
+
+![Geospatial Analysis 2](screenshots/geospatial_analysis2.png)
+
+![Geospatial Analysis 3](screenshots/geospatial_analysis3.png)
+
+### SHAP Explainability
+![SHAP Explainability 1](screenshots/shap_explainability1.png)
+
+![SHAP Explainability 2](screenshots/shap_explainability2.png)
+
+### Fleet Optimization
+![Fleet Optimization 1](screenshots/fleet_optimization1.png)
+
+![Fleet Optimization 2](screenshots/fleet_optimization2.png)
+
+![Fleet Optimization 3](screenshots/fleet_optimization3.png)
