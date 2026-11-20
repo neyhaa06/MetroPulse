@@ -1,0 +1,259 @@
+LocationID,Zone,Borough,pickup_trips,cluster_id,cluster_type,average_hourly_demand,maximum_required_vehicles,allocated_vehicles,served_hourly_demand,unmet_hourly_demand,demand_coverage_percentage,allocation_status
+132,JFK Airport,Queens,145185,-1,Noise / Unclustered,195.14112903225808,98,39,78.0,117.1411,39.97,Vehicles Allocated
+161,Midtown Center,Manhattan,143445,1,Cluster 1,192.80241935483872,97,39,77.0652,115.7372,39.97,Vehicles Allocated
+237,Upper East Side South,Manhattan,142681,1,Cluster 1,191.7755376344086,96,39,76.6547,115.1208,39.97,Vehicles Allocated
+236,Upper East Side North,Manhattan,136432,1,Cluster 1,183.3763440860215,92,37,73.2975,110.0789,39.97,Vehicles Allocated
+162,Midtown East,Manhattan,106693,1,Cluster 1,143.40456989247312,72,29,57.3203,86.0842,39.97,Vehicles Allocated
+230,Times Sq/Theatre District,Manhattan,106294,1,Cluster 1,142.86827956989248,72,29,57.106,85.7623,39.97,Vehicles Allocated
+186,Penn Station/Madison Sq West,Manhattan,104505,1,Cluster 1,140.46370967741936,71,29,56.1448,84.3189,39.97,Vehicles Allocated
+142,Lincoln Square East,Manhattan,104064,1,Cluster 1,139.8709677419355,70,28,55.9079,83.963,39.97,Vehicles Allocated
+138,LaGuardia Airport,Queens,89508,5,Cluster 5,120.30645161290323,61,25,48.0878,72.2187,39.97,Vehicles Allocated
+239,Upper West Side South,Manhattan,88458,1,Cluster 1,118.89516129032258,60,24,47.5237,71.3715,39.97,Vehicles Allocated
+163,Midtown North,Manhattan,85670,1,Cluster 1,115.14784946236558,58,24,46.0258,69.122,39.97,Vehicles Allocated
+170,Murray Hill,Manhattan,83051,1,Cluster 1,111.62768817204301,56,23,44.6188,67.0089,39.97,Vehicles Allocated
+68,East Chelsea,Manhattan,77667,1,Cluster 1,104.39112903225806,53,21,41.7263,62.6649,39.97,Vehicles Allocated
+48,Clinton East,Manhattan,76459,1,Cluster 1,102.76747311827957,52,21,41.0773,61.6902,39.97,Vehicles Allocated
+234,Union Sq,Manhattan,76146,1,Cluster 1,102.34677419354838,52,21,40.9091,61.4377,39.97,Vehicles Allocated
+141,Lenox Hill West,Manhattan,73936,1,Cluster 1,99.3763440860215,50,20,39.7218,59.6546,39.97,Vehicles Allocated
+249,West Village,Manhattan,66217,1,Cluster 1,89.0013440860215,45,18,35.5748,53.4266,39.97,Vehicles Allocated
+140,Lenox Hill East,Manhattan,66047,1,Cluster 1,88.77284946236558,45,18,35.4835,53.2894,39.97,Vehicles Allocated
+79,East Village,Manhattan,65922,1,Cluster 1,88.60483870967742,45,18,35.4163,53.1885,39.97,Vehicles Allocated
+164,Midtown South,Manhattan,64895,1,Cluster 1,87.22446236559139,44,18,34.8646,52.3599,39.97,Vehicles Allocated
+238,Upper West Side North,Manhattan,64215,1,Cluster 1,86.31048387096774,44,18,34.4992,51.8113,39.97,Vehicles Allocated
+263,Yorkville West,Manhattan,59789,1,Cluster 1,80.36155913978494,41,17,32.1214,48.2402,39.97,Vehicles Allocated
+107,Gramercy,Manhattan,59351,1,Cluster 1,79.77284946236558,40,16,31.8861,47.8868,39.97,Vehicles Allocated
+229,Sutton Place/Turtle Bay North,Manhattan,55207,1,Cluster 1,74.20295698924731,38,15,29.6597,44.5432,39.97,Vehicles Allocated
+246,West Chelsea/Hudson Yards,Manhattan,50546,1,Cluster 1,67.93817204301075,34,14,27.1556,40.7826,39.97,Vehicles Allocated
+43,Central Park,Manhattan,48271,1,Cluster 1,64.88037634408602,33,13,25.9334,38.947,39.97,Vehicles Allocated
+100,Garment District,Manhattan,48081,1,Cluster 1,64.625,33,13,25.8313,38.7937,39.97,Vehicles Allocated
+90,Flatiron,Manhattan,46490,1,Cluster 1,62.486559139784944,32,13,24.9765,37.51,39.97,Vehicles Allocated
+262,Yorkville East,Manhattan,42785,1,Cluster 1,57.50672043010753,29,12,22.9861,34.5207,39.97,Vehicles Allocated
+113,Greenwich Village North,Manhattan,40521,1,Cluster 1,54.46370967741935,28,11,21.7697,32.694,39.97,Vehicles Allocated
+114,Greenwich Village South,Manhattan,40335,1,Cluster 1,54.21370967741935,28,11,21.6698,32.5439,39.97,Vehicles Allocated
+231,TriBeCa/Civic Center,Manhattan,37038,1,Cluster 1,49.78225806451613,25,10,19.8985,29.8838,39.97,Vehicles Allocated
+143,Lincoln Square West,Manhattan,35556,1,Cluster 1,47.79032258064516,24,10,19.1023,28.688,39.97,Vehicles Allocated
+233,UN/Turtle Bay South,Manhattan,33584,1,Cluster 1,45.13978494623656,23,10,18.0429,27.0969,39.97,Vehicles Allocated
+137,Kips Bay,Manhattan,32974,1,Cluster 1,44.31989247311828,23,9,17.7151,26.6048,39.97,Vehicles Allocated
+148,Lower East Side,Manhattan,27959,1,Cluster 1,37.579301075268816,19,8,15.0208,22.5585,39.97,Vehicles Allocated
+144,Little Italy/NoLiTa,Manhattan,25614,1,Cluster 1,34.42741935483871,18,7,13.761,20.6664,39.97,Vehicles Allocated
+151,Manhattan Valley,Manhattan,24374,1,Cluster 1,32.76075268817204,17,7,13.0948,19.6659,39.97,Vehicles Allocated
+158,Meatpacking/West Village West,Manhattan,23713,1,Cluster 1,31.872311827956988,16,7,12.7397,19.1326,39.97,Vehicles Allocated
+211,SoHo,Manhattan,20194,1,Cluster 1,27.142473118279568,14,6,10.8491,16.2933,39.97,Vehicles Allocated
+75,East Harlem South,Manhattan,18246,1,Cluster 1,24.524193548387096,13,5,9.8026,14.7216,39.97,Vehicles Allocated
+50,Clinton West,Manhattan,16256,1,Cluster 1,21.849462365591396,11,5,8.7335,13.116,39.97,Vehicles Allocated
+13,Battery Park City,Manhattan,15873,1,Cluster 1,21.33467741935484,11,5,8.5277,12.807,39.97,Vehicles Allocated
+166,Morningside Heights,Manhattan,13800,1,Cluster 1,18.548387096774192,10,4,7.414,11.1344,39.97,Vehicles Allocated
+125,Hudson Sq,Manhattan,13702,1,Cluster 1,18.416666666666668,10,4,7.3613,11.0553,39.97,Vehicles Allocated
+261,World Trade Center,Manhattan,12884,1,Cluster 1,17.317204301075268,9,4,6.9219,10.3953,39.97,Vehicles Allocated
+70,East Elmhurst,Queens,12283,5,Cluster 5,16.509408602150536,9,4,6.599,9.9104,39.97,Vehicles Allocated
+87,Financial District North,Manhattan,12099,1,Cluster 1,16.262096774193548,9,4,6.5001,9.762,39.97,Vehicles Allocated
+24,Bloomingdale,Manhattan,7849,1,Cluster 1,10.549731182795698,6,3,4.2168,6.3329,39.97,Vehicles Allocated
+88,Financial District South,Manhattan,7007,1,Cluster 1,9.418010752688172,5,2,3.7645,5.6535,39.97,Vehicles Allocated
+41,Central Harlem,Manhattan,6825,1,Cluster 1,9.173387096774194,5,2,3.6667,5.5067,39.97,Vehicles Allocated
+74,East Harlem North,Manhattan,6144,1,Cluster 1,8.258064516129032,5,2,3.3008,4.9572,39.97,Vehicles Allocated
+209,Seaport,Manhattan,4480,1,Cluster 1,6.021505376344086,4,2,2.4069,3.6146,39.97,Vehicles Allocated
+45,Chinatown,Manhattan,3823,1,Cluster 1,5.138440860215054,3,2,2.0539,3.0846,39.97,Vehicles Allocated
+232,Two Bridges/Seward Park,Manhattan,3735,1,Cluster 1,5.020161290322581,3,2,2.0066,3.0135,39.97,Vehicles Allocated
+224,Stuy Town/Peter Cooper Village,Manhattan,3703,1,Cluster 1,4.977150537634409,3,1,1.9894,2.9877,39.97,Vehicles Allocated
+4,Alphabet City,Manhattan,3566,1,Cluster 1,4.793010752688172,3,1,1.9158,2.8772,39.97,Vehicles Allocated
+42,Central Harlem North,Manhattan,3152,1,Cluster 1,4.236559139784946,3,1,1.6934,2.5432,39.97,Vehicles Allocated
+145,Long Island City/Hunters Point,Queens,2753,-1,Noise / Unclustered,3.700268817204301,2,1,1.479,2.2212,39.97,Vehicles Allocated
+226,Sunnyside,Queens,2596,-1,Noise / Unclustered,3.489247311827957,2,1,1.3947,2.0946,39.97,Vehicles Allocated
+116,Hamilton Heights,Manhattan,2196,1,Cluster 1,2.9516129032258065,2,1,1.1798,1.7718,39.97,Vehicles Allocated
+193,Queensbridge/Ravenswood,Queens,2180,1,Cluster 1,2.9301075268817205,2,1,1.1712,1.7589,39.97,Vehicles Allocated
+152,Manhattanville,Manhattan,1960,1,Cluster 1,2.6344086021505375,2,1,1.053,1.5814,39.97,Vehicles Allocated
+244,Washington Heights South,Manhattan,1892,0,Cluster 0,2.543010752688172,2,1,1.0165,1.5265,39.97,Vehicles Allocated
+7,Astoria,Queens,1811,2,Cluster 2,2.4341397849462365,2,1,0.973,1.4612,39.97,Vehicles Allocated
+146,Long Island City/Queens Plaza,Queens,1491,1,Cluster 1,2.004032258064516,2,1,0.801,1.203,39.97,Vehicles Allocated
+65,Downtown Brooklyn/MetroTech,Brooklyn,1392,1,Cluster 1,1.8709677419354838,1,1,1.871,0.0,100.0,Vehicles Allocated
+33,Brooklyn Heights,Brooklyn,1257,1,Cluster 1,1.689516129032258,1,1,1.6895,0.0,100.0,Vehicles Allocated
+97,Fort Greene,Brooklyn,1133,1,Cluster 1,1.5228494623655915,1,1,1.5228,0.0,100.0,Vehicles Allocated
+255,Williamsburg (North Side),Brooklyn,1109,1,Cluster 1,1.4905913978494623,1,1,1.4906,0.0,100.0,Vehicles Allocated
+25,Boerum Hill,Brooklyn,1051,1,Cluster 1,1.4126344086021505,1,1,1.4126,0.0,100.0,Vehicles Allocated
+61,Crown Heights North,Brooklyn,1045,1,Cluster 1,1.4045698924731183,1,1,1.4046,0.0,100.0,Vehicles Allocated
+10,Baisley Park,Queens,998,-1,Noise / Unclustered,1.3413978494623655,1,1,1.3414,0.0,100.0,Vehicles Allocated
+181,Park Slope,Brooklyn,981,1,Cluster 1,1.3185483870967742,1,1,1.3185,0.0,100.0,Vehicles Allocated
+76,East New York,Brooklyn,938,-1,Noise / Unclustered,1.260752688172043,1,1,1.2608,0.0,100.0,Vehicles Allocated
+129,Jackson Heights,Queens,913,-1,Noise / Unclustered,1.2271505376344085,1,1,1.2272,0.0,100.0,Vehicles Allocated
+256,Williamsburg (South Side),Brooklyn,911,1,Cluster 1,1.2244623655913978,1,1,1.2245,0.0,100.0,Vehicles Allocated
+12,Battery Park,Manhattan,874,1,Cluster 1,1.174731182795699,1,1,1.1747,0.0,100.0,Vehicles Allocated
+260,Woodside,Queens,813,6,Cluster 6,1.092741935483871,1,1,1.0927,0.0,100.0,Vehicles Allocated
+130,Jamaica,Queens,754,8,Cluster 8,1.0134408602150538,1,1,1.0134,0.0,100.0,Vehicles Allocated
+216,South Ozone Park,Queens,732,-1,Noise / Unclustered,0.9838709677419355,1,1,0.9839,0.0,100.0,Vehicles Allocated
+188,Prospect-Lefferts Gardens,Brooklyn,720,1,Cluster 1,0.967741935483871,1,1,0.9677,0.0,100.0,Vehicles Allocated
+66,DUMBO/Vinegar Hill,Brooklyn,704,1,Cluster 1,0.946236559139785,1,1,0.9462,0.0,100.0,Vehicles Allocated
+223,Steinway,Queens,677,2,Cluster 2,0.9099462365591398,1,1,0.9099,0.0,100.0,Vehicles Allocated
+80,East Williamsburg,Brooklyn,676,-1,Noise / Unclustered,0.9086021505376344,1,1,0.9086,0.0,100.0,Vehicles Allocated
+39,Canarsie,Brooklyn,673,-1,Noise / Unclustered,0.9045698924731183,1,1,0.9046,0.0,100.0,Vehicles Allocated
+168,Mott Haven/Port Morris,Bronx,662,0,Cluster 0,0.8897849462365591,1,1,0.8898,0.0,100.0,Vehicles Allocated
+112,Greenpoint,Brooklyn,661,1,Cluster 1,0.8884408602150538,1,1,0.8884,0.0,100.0,Vehicles Allocated
+179,Old Astoria,Queens,639,2,Cluster 2,0.8588709677419355,1,1,0.8589,0.0,100.0,Vehicles Allocated
+89,Flatbush/Ditmas Park,Brooklyn,595,1,Cluster 1,0.7997311827956989,1,1,0.7997,0.0,100.0,Vehicles Allocated
+215,South Jamaica,Queens,595,8,Cluster 8,0.7997311827956989,1,1,0.7997,0.0,100.0,Vehicles Allocated
+225,Stuyvesant Heights,Brooklyn,582,4,Cluster 4,0.782258064516129,1,1,0.7823,0.0,100.0,Vehicles Allocated
+37,Bushwick South,Brooklyn,563,4,Cluster 4,0.7567204301075269,1,1,0.7567,0.0,100.0,Vehicles Allocated
+35,Brownsville,Brooklyn,544,3,Cluster 3,0.7311827956989247,1,1,0.7312,0.0,100.0,Vehicles Allocated
+95,Forest Hills,Queens,543,-1,Noise / Unclustered,0.7298387096774194,1,1,0.7298,0.0,100.0,Vehicles Allocated
+52,Cobble Hill,Brooklyn,530,1,Cluster 1,0.7123655913978495,1,1,0.7124,0.0,100.0,Vehicles Allocated
+82,Elmhurst,Queens,530,6,Cluster 6,0.7123655913978495,1,1,0.7124,0.0,100.0,Vehicles Allocated
+17,Bedford,Brooklyn,516,1,Cluster 1,0.6935483870967742,1,1,0.6935,0.0,100.0,Vehicles Allocated
+93,Flushing Meadows-Corona Park,Queens,510,-1,Noise / Unclustered,0.6854838709677419,1,1,0.6855,0.0,100.0,Vehicles Allocated
+49,Clinton Hill,Brooklyn,504,1,Cluster 1,0.6774193548387096,1,1,0.6774,0.0,100.0,Vehicles Allocated
+243,Washington Heights North,Manhattan,495,0,Cluster 0,0.6653225806451613,1,1,0.6653,0.0,100.0,Vehicles Allocated
+197,Richmond Hill,Queens,488,-1,Noise / Unclustered,0.6559139784946236,1,1,0.6559,0.0,100.0,Vehicles Allocated
+91,Flatlands,Brooklyn,461,-1,Noise / Unclustered,0.6196236559139785,1,1,0.6196,0.0,100.0,Vehicles Allocated
+72,East Flatbush/Remsen Village,Brooklyn,458,-1,Noise / Unclustered,0.6155913978494624,1,1,0.6156,0.0,100.0,Vehicles Allocated
+219,Springfield Gardens South,Queens,446,-1,Noise / Unclustered,0.5994623655913979,1,1,0.5995,0.0,100.0,Vehicles Allocated
+28,Briarwood/Jamaica Hills,Queens,438,8,Cluster 8,0.5887096774193549,1,1,0.5887,0.0,100.0,Vehicles Allocated
+51,Co-Op City,Bronx,408,-1,Noise / Unclustered,0.5483870967741935,1,1,0.5484,0.0,100.0,Vehicles Allocated
+14,Bay Ridge,Brooklyn,403,-1,Noise / Unclustered,0.5416666666666666,1,1,0.5417,0.0,100.0,Vehicles Allocated
+71,East Flatbush/Farragut,Brooklyn,401,1,Cluster 1,0.5389784946236559,1,1,0.539,0.0,100.0,Vehicles Allocated
+62,Crown Heights South,Brooklyn,383,1,Cluster 1,0.5147849462365591,1,1,0.5148,0.0,100.0,Vehicles Allocated
+40,Carroll Gardens,Brooklyn,356,1,Cluster 1,0.478494623655914,1,1,0.4785,0.0,100.0,Vehicles Allocated
+177,Ocean Hill,Brooklyn,354,3,Cluster 3,0.47580645161290325,1,1,0.4758,0.0,100.0,Vehicles Allocated
+189,Prospect Heights,Brooklyn,344,1,Cluster 1,0.46236559139784944,1,1,0.4624,0.0,100.0,Vehicles Allocated
+205,Saint Albans,Queens,342,-1,Noise / Unclustered,0.4596774193548387,1,1,0.4597,0.0,100.0,Vehicles Allocated
+69,East Concourse/Concourse Village,Bronx,340,0,Cluster 0,0.45698924731182794,1,1,0.457,0.0,100.0,Vehicles Allocated
+218,Springfield Gardens North,Queens,337,-1,Noise / Unclustered,0.4529569892473118,1,1,0.453,0.0,100.0,Vehicles Allocated
+195,Red Hook,Brooklyn,328,1,Cluster 1,0.44086021505376344,1,1,0.4409,0.0,100.0,Vehicles Allocated
+247,West Concourse,Bronx,326,0,Cluster 0,0.4381720430107527,1,1,0.4382,0.0,100.0,Vehicles Allocated
+36,Bushwick North,Brooklyn,320,4,Cluster 4,0.43010752688172044,1,1,0.4301,0.0,100.0,Vehicles Allocated
+134,Kew Gardens,Queens,303,-1,Noise / Unclustered,0.40725806451612906,1,1,0.4073,0.0,100.0,Vehicles Allocated
+213,Soundview/Castle Hill,Bronx,300,0,Cluster 0,0.4032258064516129,1,1,0.4032,0.0,100.0,Vehicles Allocated
+55,Coney Island,Brooklyn,296,7,Cluster 7,0.3978494623655914,1,1,0.3978,0.0,100.0,Vehicles Allocated
+1,Newark Airport,EWR,295,-1,Noise / Unclustered,0.396505376344086,1,1,0.3965,0.0,100.0,Vehicles Allocated
+157,Maspeth,Queens,290,-1,Noise / Unclustered,0.3897849462365591,1,1,0.3898,0.0,100.0,Vehicles Allocated
+159,Melrose South,Bronx,289,0,Cluster 0,0.38844086021505375,1,1,0.3884,0.0,100.0,Vehicles Allocated
+167,Morrisania/Melrose,Bronx,289,0,Cluster 0,0.38844086021505375,1,1,0.3884,0.0,100.0,Vehicles Allocated
+86,Far Rockaway,Queens,275,-1,Noise / Unclustered,0.3696236559139785,1,1,0.3696,0.0,100.0,Vehicles Allocated
+56,Corona,Queens,269,5,Cluster 5,0.36155913978494625,1,1,0.3616,0.0,100.0,Vehicles Allocated
+235,University Heights/Morris Heights,Bronx,261,0,Cluster 0,0.35080645161290325,1,1,0.3508,0.0,100.0,Vehicles Allocated
+127,Inwood,Manhattan,261,0,Cluster 0,0.35080645161290325,1,1,0.3508,0.0,100.0,Vehicles Allocated
+191,Queens Village,Queens,258,-1,Noise / Unclustered,0.3467741935483871,1,1,0.3468,0.0,100.0,Vehicles Allocated
+222,Starrett City,Brooklyn,255,-1,Noise / Unclustered,0.34274193548387094,1,1,0.3427,0.0,100.0,Vehicles Allocated
+165,Midwood,Brooklyn,255,-1,Noise / Unclustered,0.34274193548387094,1,1,0.3427,0.0,100.0,Vehicles Allocated
+92,Flushing,Queens,250,5,Cluster 5,0.33602150537634407,1,1,0.336,0.0,100.0,Vehicles Allocated
+117,Hammels/Arverne,Queens,248,-1,Noise / Unclustered,0.3333333333333333,1,1,0.3333,0.0,100.0,Vehicles Allocated
+77,East New York/Pennsylvania Avenue,Brooklyn,244,3,Cluster 3,0.3279569892473118,1,1,0.328,0.0,100.0,Vehicles Allocated
+26,Borough Park,Brooklyn,237,-1,Noise / Unclustered,0.3185483870967742,1,1,0.3185,0.0,100.0,Vehicles Allocated
+196,Rego Park,Queens,236,-1,Noise / Unclustered,0.3172043010752688,1,1,0.3172,0.0,100.0,Vehicles Allocated
+182,Parkchester,Bronx,232,0,Cluster 0,0.3118279569892473,1,1,0.3118,0.0,100.0,Vehicles Allocated
+254,Williamsbridge/Olinville,Bronx,231,-1,Noise / Unclustered,0.31048387096774194,1,1,0.3105,0.0,100.0,Vehicles Allocated
+155,Marine Park/Mill Basin,Brooklyn,226,-1,Noise / Unclustered,0.30376344086021506,1,1,0.3038,0.0,100.0,Vehicles Allocated
+207,Saint Michaels Cemetery/Woodside,Queens,213,-1,Noise / Unclustered,0.2862903225806452,1,1,0.2863,0.0,100.0,Vehicles Allocated
+210,Sheepshead Bay,Brooklyn,211,9,Cluster 9,0.28360215053763443,1,1,0.2836,0.0,100.0,Vehicles Allocated
+228,Sunset Park West,Brooklyn,211,-1,Noise / Unclustered,0.28360215053763443,1,1,0.2836,0.0,100.0,Vehicles Allocated
+198,Ridgewood,Queens,209,-1,Noise / Unclustered,0.28091397849462363,1,1,0.2809,0.0,100.0,Vehicles Allocated
+169,Mount Hope,Bronx,208,0,Cluster 0,0.27956989247311825,1,1,0.2796,0.0,100.0,Vehicles Allocated
+203,Rosedale,Queens,203,-1,Noise / Unclustered,0.2728494623655914,1,1,0.2728,0.0,100.0,Vehicles Allocated
+85,Erasmus,Brooklyn,197,1,Cluster 1,0.2647849462365591,1,1,0.2648,0.0,100.0,Vehicles Allocated
+78,East Tremont,Bronx,195,0,Cluster 0,0.2620967741935484,1,1,0.2621,0.0,100.0,Vehicles Allocated
+242,Van Nest/Morris Park,Bronx,194,0,Cluster 0,0.260752688172043,1,1,0.2608,0.0,100.0,Vehicles Allocated
+63,Cypress Hills,Brooklyn,190,-1,Noise / Unclustered,0.2553763440860215,1,1,0.2554,0.0,100.0,Vehicles Allocated
+18,Bedford Park,Bronx,187,0,Cluster 0,0.2513440860215054,1,1,0.2513,0.0,100.0,Vehicles Allocated
+121,Hillcrest/Pomonok,Queens,187,-1,Noise / Unclustered,0.2513440860215054,1,1,0.2513,0.0,100.0,Vehicles Allocated
+258,Woodhaven,Queens,185,-1,Noise / Unclustered,0.24865591397849462,1,1,0.2487,0.0,100.0,Vehicles Allocated
+83,Elmhurst/Maspeth,Queens,182,6,Cluster 6,0.2446236559139785,1,1,0.2446,0.0,100.0,Vehicles Allocated
+47,Claremont/Bathgate,Bronx,173,0,Cluster 0,0.2325268817204301,1,1,0.2325,0.0,100.0,Vehicles Allocated
+119,Highbridge,Bronx,173,0,Cluster 0,0.2325268817204301,1,1,0.2325,0.0,100.0,Vehicles Allocated
+131,Jamaica Estates,Queens,172,-1,Noise / Unclustered,0.23118279569892472,1,1,0.2312,0.0,100.0,Vehicles Allocated
+202,Roosevelt Island,Manhattan,167,1,Cluster 1,0.22446236559139784,1,1,0.2245,0.0,100.0,Vehicles Allocated
+241,Van Cortlandt Village,Bronx,164,0,Cluster 0,0.22043010752688172,1,1,0.2204,0.0,100.0,Vehicles Allocated
+29,Brighton Beach,Brooklyn,162,9,Cluster 9,0.21774193548387097,1,1,0.2177,0.0,100.0,Vehicles Allocated
+139,Laurelton,Queens,162,-1,Noise / Unclustered,0.21774193548387097,1,1,0.2177,0.0,100.0,Vehicles Allocated
+106,Gowanus,Brooklyn,161,1,Cluster 1,0.2163978494623656,1,1,0.2164,0.0,100.0,Vehicles Allocated
+217,South Williamsburg,Brooklyn,160,1,Cluster 1,0.21505376344086022,1,1,0.2151,0.0,100.0,Vehicles Allocated
+220,Spuyten Duyvil/Kingsbridge,Bronx,153,0,Cluster 0,0.2056451612903226,1,1,0.2056,0.0,100.0,Vehicles Allocated
+123,Homecrest,Brooklyn,153,-1,Noise / Unclustered,0.2056451612903226,1,1,0.2056,0.0,100.0,Vehicles Allocated
+22,Bensonhurst West,Brooklyn,153,-1,Noise / Unclustered,0.2056451612903226,1,1,0.2056,0.0,100.0,Vehicles Allocated
+135,Kew Gardens Hills,Queens,151,-1,Noise / Unclustered,0.20295698924731181,1,1,0.203,0.0,100.0,Vehicles Allocated
+21,Bensonhurst East,Brooklyn,145,7,Cluster 7,0.19489247311827956,1,1,0.1949,0.0,100.0,Vehicles Allocated
+38,Cambria Heights,Queens,143,-1,Noise / Unclustered,0.1922043010752688,1,1,0.1922,0.0,100.0,Vehicles Allocated
+248,West Farms/Bronx River,Bronx,142,0,Cluster 0,0.19086021505376344,1,1,0.1909,0.0,100.0,Vehicles Allocated
+174,Norwood,Bronx,142,0,Cluster 0,0.19086021505376344,1,1,0.1909,0.0,100.0,Vehicles Allocated
+136,Kingsbridge Heights,Bronx,137,0,Cluster 0,0.18413978494623656,1,1,0.1841,0.0,100.0,Vehicles Allocated
+32,Bronxdale,Bronx,132,0,Cluster 0,0.1774193548387097,1,1,0.1774,0.0,100.0,Vehicles Allocated
+124,Howard Beach,Queens,132,-1,Noise / Unclustered,0.1774193548387097,1,1,0.1774,0.0,100.0,Vehicles Allocated
+20,Belmont,Bronx,130,0,Cluster 0,0.17473118279569894,1,1,0.1747,0.0,100.0,Vehicles Allocated
+133,Kensington,Brooklyn,127,1,Cluster 1,0.17069892473118278,1,1,0.1707,0.0,100.0,Vehicles Allocated
+81,Eastchester,Bronx,127,-1,Noise / Unclustered,0.17069892473118278,1,1,0.1707,0.0,100.0,Vehicles Allocated
+149,Madison,Brooklyn,126,-1,Noise / Unclustered,0.1693548387096774,1,1,0.1694,0.0,100.0,Vehicles Allocated
+185,Pelham Parkway,Bronx,125,0,Cluster 0,0.16801075268817203,1,1,0.168,0.0,100.0,Vehicles Allocated
+212,Soundview/Bruckner,Bronx,123,0,Cluster 0,0.16532258064516128,1,1,0.1653,0.0,100.0,Vehicles Allocated
+108,Gravesend,Brooklyn,119,7,Cluster 7,0.15994623655913978,1,1,0.1599,0.0,100.0,Vehicles Allocated
+60,Crotona Park East,Bronx,119,0,Cluster 0,0.15994623655913978,1,1,0.1599,0.0,100.0,Vehicles Allocated
+259,Woodlawn/Wakefield,Bronx,119,-1,Noise / Unclustered,0.15994623655913978,1,1,0.1599,0.0,100.0,Vehicles Allocated
+208,Schuylerville/Edgewater Park,Bronx,118,-1,Noise / Unclustered,0.1586021505376344,1,1,0.1586,0.0,100.0,Vehicles Allocated
+250,Westchester Village/Unionport,Bronx,110,0,Cluster 0,0.1478494623655914,1,1,0.1478,0.0,100.0,Vehicles Allocated
+126,Hunts Point,Bronx,105,0,Cluster 0,0.14112903225806453,1,1,0.1411,0.0,100.0,Vehicles Allocated
+180,Ozone Park,Queens,105,-1,Noise / Unclustered,0.14112903225806453,1,1,0.1411,0.0,100.0,Vehicles Allocated
+147,Longwood,Bronx,105,0,Cluster 0,0.14112903225806453,1,1,0.1411,0.0,100.0,Vehicles Allocated
+3,Allerton/Pelham Gardens,Bronx,105,0,Cluster 0,0.14112903225806453,1,1,0.1411,0.0,100.0,Vehicles Allocated
+67,Dyker Heights,Brooklyn,103,-1,Noise / Unclustered,0.13844086021505375,1,1,0.1384,0.0,100.0,Vehicles Allocated
+227,Sunset Park East,Brooklyn,102,-1,Noise / Unclustered,0.13709677419354838,1,1,0.1371,0.0,100.0,Vehicles Allocated
+194,Randalls Island,Manhattan,98,2,Cluster 2,0.13172043010752688,1,1,0.1317,0.0,100.0,Vehicles Allocated
+200,Riverdale/North Riverdale/Fieldston,Bronx,98,-1,Noise / Unclustered,0.13172043010752688,1,1,0.1317,0.0,100.0,Vehicles Allocated
+160,Middle Village,Queens,97,-1,Noise / Unclustered,0.1303763440860215,1,1,0.1304,0.0,100.0,Vehicles Allocated
+94,Fordham South,Bronx,91,0,Cluster 0,0.12231182795698925,1,1,0.1223,0.0,100.0,Vehicles Allocated
+150,Manhattan Beach,Brooklyn,82,9,Cluster 9,0.11021505376344086,1,1,0.1102,0.0,100.0,Vehicles Allocated
+173,North Corona,Queens,82,5,Cluster 5,0.11021505376344086,1,1,0.1102,0.0,100.0,Vehicles Allocated
+19,Bellerose,Queens,82,-1,Noise / Unclustered,0.11021505376344086,1,1,0.1102,0.0,100.0,Vehicles Allocated
+16,Bayside,Queens,80,-1,Noise / Unclustered,0.10752688172043011,1,1,0.1075,0.0,100.0,Vehicles Allocated
+201,Rockaway Park,Queens,80,-1,Noise / Unclustered,0.10752688172043011,1,1,0.1075,0.0,100.0,Vehicles Allocated
+171,Murray Hill-Queens,Queens,79,-1,Noise / Unclustered,0.10618279569892473,1,1,0.1062,0.0,100.0,Vehicles Allocated
+122,Hollis,Queens,79,-1,Noise / Unclustered,0.10618279569892473,1,1,0.1062,0.0,100.0,Vehicles Allocated
+257,Windsor Terrace,Brooklyn,78,1,Cluster 1,0.10483870967741936,1,1,0.1048,0.0,100.0,Vehicles Allocated
+98,Fresh Meadows,Queens,76,-1,Noise / Unclustered,0.10215053763440861,1,1,0.1022,0.0,100.0,Vehicles Allocated
+102,Glendale,Queens,75,-1,Noise / Unclustered,0.10080645161290322,1,1,0.1008,0.0,100.0,Vehicles Allocated
+252,Whitestone,Queens,71,-1,Noise / Unclustered,0.09543010752688172,1,1,0.0954,0.0,100.0,Vehicles Allocated
+192,Queensboro Hill,Queens,65,-1,Noise / Unclustered,0.08736559139784947,1,1,0.0874,0.0,100.0,Vehicles Allocated
+34,Brooklyn Navy Yard,Brooklyn,62,1,Cluster 1,0.08333333333333333,1,1,0.0833,0.0,100.0,Vehicles Allocated
+54,Columbia Street,Brooklyn,62,1,Cluster 1,0.08333333333333333,1,1,0.0833,0.0,100.0,Vehicles Allocated
+178,Ocean Parkway South,Brooklyn,60,-1,Noise / Unclustered,0.08064516129032258,1,1,0.0806,0.0,100.0,Vehicles Allocated
+11,Bath Beach,Brooklyn,58,-1,Noise / Unclustered,0.07795698924731183,1,1,0.078,0.0,100.0,Vehicles Allocated
+154,Marine Park/Floyd Bennett Field,Brooklyn,58,-1,Noise / Unclustered,0.07795698924731183,1,1,0.078,0.0,100.0,Vehicles Allocated
+9,Auburndale,Queens,57,-1,Noise / Unclustered,0.07661290322580645,1,1,0.0766,0.0,100.0,Vehicles Allocated
+101,Glen Oaks,Queens,56,-1,Noise / Unclustered,0.07526881720430108,1,1,0.0753,0.0,100.0,Vehicles Allocated
+175,Oakland Gardens,Queens,56,-1,Noise / Unclustered,0.07526881720430108,1,1,0.0753,0.0,100.0,Vehicles Allocated
+190,Prospect Park,Brooklyn,53,1,Cluster 1,0.07123655913978495,1,1,0.0712,0.0,100.0,Vehicles Allocated
+153,Marble Hill,Manhattan,49,0,Cluster 0,0.06586021505376344,1,1,0.0659,0.0,100.0,Vehicles Allocated
+64,Douglaston,Queens,49,-1,Noise / Unclustered,0.06586021505376344,1,1,0.0659,0.0,100.0,Vehicles Allocated
+53,College Point,Queens,48,-1,Noise / Unclustered,0.06451612903225806,1,1,0.0645,0.0,100.0,Vehicles Allocated
+183,Pelham Bay,Bronx,47,-1,Noise / Unclustered,0.06317204301075269,1,1,0.0632,0.0,100.0,Vehicles Allocated
+73,East Flushing,Queens,43,-1,Noise / Unclustered,0.05779569892473118,1,1,0.0578,0.0,100.0,Vehicles Allocated
+15,Bay Terrace/Fort Totten,Queens,38,-1,Noise / Unclustered,0.051075268817204304,1,1,0.0511,0.0,100.0,Vehicles Allocated
+128,Inwood Hill Park,Manhattan,22,0,Cluster 0,0.02956989247311828,1,1,0.0296,0.0,100.0,Vehicles Allocated
+6,Arrochar/Fort Wadsworth,Staten Island,21,-1,Noise / Unclustered,0.028225806451612902,1,1,0.0282,0.0,100.0,Vehicles Allocated
+240,Van Cortlandt Park,Bronx,18,-1,Noise / Unclustered,0.024193548387096774,1,1,0.0242,0.0,100.0,Vehicles Allocated
+120,Highbridge Park,Manhattan,15,0,Cluster 0,0.020161290322580645,1,1,0.0202,0.0,100.0,Vehicles Allocated
+253,Willets Point,Queens,14,5,Cluster 5,0.01881720430107527,1,1,0.0188,0.0,100.0,Vehicles Allocated
+96,Forest Park/Highland Park,Queens,12,-1,Noise / Unclustered,0.016129032258064516,1,1,0.0161,0.0,100.0,Vehicles Allocated
+8,Astoria Park,Queens,11,2,Cluster 2,0.01478494623655914,1,1,0.0148,0.0,100.0,Vehicles Allocated
+57,Corona,Queens,10,5,Cluster 5,0.013440860215053764,1,1,0.0134,0.0,100.0,Vehicles Allocated
+118,Heartland Village/Todt Hill,Staten Island,9,-1,Noise / Unclustered,0.012096774193548387,1,1,0.0121,0.0,100.0,Vehicles Allocated
+31,Bronx Park,Bronx,7,0,Cluster 0,0.009408602150537635,1,1,0.0094,0.0,100.0,Vehicles Allocated
+46,City Island,Bronx,7,-1,Noise / Unclustered,0.009408602150537635,1,1,0.0094,0.0,100.0,Vehicles Allocated
+58,Country Club,Bronx,6,-1,Noise / Unclustered,0.008064516129032258,1,1,0.0081,0.0,100.0,Vehicles Allocated
+27,Breezy Point/Fort Tilden/Riis Beach,Queens,6,-1,Noise / Unclustered,0.008064516129032258,1,1,0.0081,0.0,100.0,Vehicles Allocated
+206,Saint George/New Brighton,Staten Island,6,-1,Noise / Unclustered,0.008064516129032258,1,1,0.0081,0.0,100.0,Vehicles Allocated
+251,Westerleigh,Staten Island,5,-1,Noise / Unclustered,0.006720430107526882,1,1,0.0067,0.0,100.0,Vehicles Allocated
+156,Mariners Harbor,Staten Island,4,-1,Noise / Unclustered,0.005376344086021506,1,1,0.0054,0.0,100.0,Vehicles Allocated
+221,Stapleton,Staten Island,4,-1,Noise / Unclustered,0.005376344086021506,1,1,0.0054,0.0,100.0,Vehicles Allocated
+23,Bloomfield/Emerson Hill,Staten Island,4,-1,Noise / Unclustered,0.005376344086021506,1,1,0.0054,0.0,100.0,Vehicles Allocated
+214,South Beach/Dongan Hills,Staten Island,4,-1,Noise / Unclustered,0.005376344086021506,1,1,0.0054,0.0,100.0,Vehicles Allocated
+2,Jamaica Bay,Queens,3,-1,Noise / Unclustered,0.004032258064516129,1,1,0.004,0.0,100.0,Vehicles Allocated
+30,Broad Channel,Queens,3,-1,Noise / Unclustered,0.004032258064516129,1,1,0.004,0.0,100.0,Vehicles Allocated
+84,Eltingville/Annadale/Prince's Bay,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+172,New Dorp/Midland Beach,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+187,Port Richmond,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+184,Pelham Bay Park,Bronx,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+176,Oakwood,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+199,Rikers Island,Bronx,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+245,West Brighton,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+59,Crotona Park,Bronx,2,0,Cluster 0,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+115,Grymes Hill/Clifton,Staten Island,2,-1,Noise / Unclustered,0.002688172043010753,1,1,0.0027,0.0,100.0,Vehicles Allocated
+204,Rossville/Woodrow,Staten Island,1,-1,Noise / Unclustered,0.0013440860215053765,1,1,0.0013,0.0,100.0,Vehicles Allocated
+109,Great Kills,Staten Island,1,-1,Noise / Unclustered,0.0013440860215053765,1,1,0.0013,0.0,100.0,Vehicles Allocated
+105,Governor's Island/Ellis Island/Liberty Island,Manhattan,1,1,Cluster 1,0.0013440860215053765,1,1,0.0013,0.0,100.0,Vehicles Allocated
+111,Green-Wood Cemetery,Brooklyn,1,1,Cluster 1,0.0013440860215053765,1,1,0.0013,0.0,100.0,Vehicles Allocated
+44,Charleston/Tottenville,Staten Island,1,-1,Noise / Unclustered,0.0013440860215053765,1,1,0.0013,0.0,100.0,Vehicles Allocated

@@ -1,0 +1,24 @@
+
+METROPULSE - HOURLY TAXI DEMAND AGGREGATION
+============================================
+
+Dataset: January 2024 Yellow Taxi Trips
+
+1. HOURLY DEMAND SUMMARY
+------------------------
+Total hourly records: 744
+Average hourly demand: 3983.52
+Minimum hourly demand: 157
+Maximum hourly demand: 9151
+
+2. BUSIEST HOUR
+---------------
+Date and hour: 2024-01-17 18:00:00
+Total trips: 9151
+
+3. DATA OUTPUT
+--------------
+C:\Users\minnu\OneDrive\Desktop\MetroPulse\data\processed\hourly_demand_2024_01.csv
+
+============================================
+END OF REPORT

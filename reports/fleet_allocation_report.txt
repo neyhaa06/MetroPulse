@@ -1,0 +1,38 @@
+METROPULSE - FAIR FLEET ALLOCATION REPORT
+=======================================================
+
+OPTIMIZATION CONFIGURATION
+-------------------------------------------------------
+Solver: HiGHS
+Method: Integer Linear Programming
+Objective: Maximize minimum zone demand coverage
+Fleet availability: SIMULATED
+Total simulated fleet: 1000
+Trips per vehicle per hour: 2
+
+OPTIMIZATION RESULTS
+-------------------------------------------------------
+Solver status: Optimal
+Zones considered: 258
+Vehicles allocated: 1000
+Minimum zone coverage: 39.97%
+Average demand coverage: 40.98%
+Average hourly demand: 3967.57
+Demand served per hour: 1625.97
+Unmet demand per hour: 2341.59
+
+TOP 10 ZONE ALLOCATIONS
+-------------------------------------------------------
+ LocationID                         Zone   Borough  average_hourly_demand  allocated_vehicles  demand_coverage_percentage
+        132                  JFK Airport    Queens             195.141129                  39                       39.97
+        161               Midtown Center Manhattan             192.802419                  39                       39.97
+        237        Upper East Side South Manhattan             191.775538                  39                       39.97
+        236        Upper East Side North Manhattan             183.376344                  37                       39.97
+        162                 Midtown East Manhattan             143.404570                  29                       39.97
+        230    Times Sq/Theatre District Manhattan             142.868280                  29                       39.97
+        186 Penn Station/Madison Sq West Manhattan             140.463710                  29                       39.97
+        142          Lincoln Square East Manhattan             139.870968                  28                       39.97
+        138            LaGuardia Airport    Queens             120.306452                  25                       39.97
+        239        Upper West Side South Manhattan             118.895161                  24                       39.97
+
+NOTE: Fleet availability and vehicle service capacity are simulation assumptions, not observed real-world fleet measurements.

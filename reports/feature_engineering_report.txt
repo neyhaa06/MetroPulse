@@ -1,0 +1,60 @@
+
+METROPULSE - FEATURE ENGINEERING REPORT
+========================================
+
+Dataset: January 2024 Yellow Taxi Trips
+
+1. INPUT DATA
+-------------
+Original hourly records: 744
+
+2. FEATURE ENGINEERING
+----------------------
+Calendar features:
+- Hour
+- Day of week
+- Day of month
+- Weekend indicator
+- Rush-hour indicator
+
+Cyclical features:
+- Hour sine and cosine
+- Day sine and cosine
+
+Lag features:
+- Previous 1-hour demand
+- Previous 24-hour demand
+- Previous 168-hour demand
+
+Rolling features:
+- Previous 24-hour average demand
+- Previous 168-hour average demand
+
+3. DATA CLEANING
+----------------
+Rows removed due to unavailable lag/rolling values: 168
+Final feature records: 576
+
+4. FEATURE COLUMNS
+------------------
+hour
+day_of_week
+day_of_month
+is_weekend
+is_rush_hour
+hour_sin
+hour_cos
+day_sin
+day_cos
+lag_1
+lag_24
+lag_168
+rolling_mean_24
+rolling_mean_168
+
+5. OUTPUT
+---------
+C:\Users\minnu\OneDrive\Desktop\MetroPulse\data\processed\demand_features_2024_01.csv
+
+========================================
+END OF REPORT

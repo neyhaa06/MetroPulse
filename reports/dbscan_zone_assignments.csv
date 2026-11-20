@@ -1,0 +1,264 @@
+LocationID,Zone,Borough,pickup_trips,cluster_id,cluster_type
+1,Newark Airport,EWR,295,-1,Noise / Unclustered
+2,Jamaica Bay,Queens,3,-1,Noise / Unclustered
+3,Allerton/Pelham Gardens,Bronx,105,0,Cluster 0
+4,Alphabet City,Manhattan,3566,1,Cluster 1
+5,Arden Heights,Staten Island,0,-1,Noise / Unclustered
+6,Arrochar/Fort Wadsworth,Staten Island,21,-1,Noise / Unclustered
+7,Astoria,Queens,1811,2,Cluster 2
+8,Astoria Park,Queens,11,2,Cluster 2
+9,Auburndale,Queens,57,-1,Noise / Unclustered
+10,Baisley Park,Queens,998,-1,Noise / Unclustered
+11,Bath Beach,Brooklyn,58,-1,Noise / Unclustered
+12,Battery Park,Manhattan,874,1,Cluster 1
+13,Battery Park City,Manhattan,15873,1,Cluster 1
+14,Bay Ridge,Brooklyn,403,-1,Noise / Unclustered
+15,Bay Terrace/Fort Totten,Queens,38,-1,Noise / Unclustered
+16,Bayside,Queens,80,-1,Noise / Unclustered
+17,Bedford,Brooklyn,516,1,Cluster 1
+18,Bedford Park,Bronx,187,0,Cluster 0
+19,Bellerose,Queens,82,-1,Noise / Unclustered
+20,Belmont,Bronx,130,0,Cluster 0
+21,Bensonhurst East,Brooklyn,145,7,Cluster 7
+22,Bensonhurst West,Brooklyn,153,-1,Noise / Unclustered
+23,Bloomfield/Emerson Hill,Staten Island,4,-1,Noise / Unclustered
+24,Bloomingdale,Manhattan,7849,1,Cluster 1
+25,Boerum Hill,Brooklyn,1051,1,Cluster 1
+26,Borough Park,Brooklyn,237,-1,Noise / Unclustered
+27,Breezy Point/Fort Tilden/Riis Beach,Queens,6,-1,Noise / Unclustered
+28,Briarwood/Jamaica Hills,Queens,438,8,Cluster 8
+29,Brighton Beach,Brooklyn,162,9,Cluster 9
+30,Broad Channel,Queens,3,-1,Noise / Unclustered
+31,Bronx Park,Bronx,7,0,Cluster 0
+32,Bronxdale,Bronx,132,0,Cluster 0
+33,Brooklyn Heights,Brooklyn,1257,1,Cluster 1
+34,Brooklyn Navy Yard,Brooklyn,62,1,Cluster 1
+35,Brownsville,Brooklyn,544,3,Cluster 3
+36,Bushwick North,Brooklyn,320,4,Cluster 4
+37,Bushwick South,Brooklyn,563,4,Cluster 4
+38,Cambria Heights,Queens,143,-1,Noise / Unclustered
+39,Canarsie,Brooklyn,673,-1,Noise / Unclustered
+40,Carroll Gardens,Brooklyn,356,1,Cluster 1
+41,Central Harlem,Manhattan,6825,1,Cluster 1
+42,Central Harlem North,Manhattan,3152,1,Cluster 1
+43,Central Park,Manhattan,48271,1,Cluster 1
+44,Charleston/Tottenville,Staten Island,1,-1,Noise / Unclustered
+45,Chinatown,Manhattan,3823,1,Cluster 1
+46,City Island,Bronx,7,-1,Noise / Unclustered
+47,Claremont/Bathgate,Bronx,173,0,Cluster 0
+48,Clinton East,Manhattan,76459,1,Cluster 1
+49,Clinton Hill,Brooklyn,504,1,Cluster 1
+50,Clinton West,Manhattan,16256,1,Cluster 1
+51,Co-Op City,Bronx,408,-1,Noise / Unclustered
+52,Cobble Hill,Brooklyn,530,1,Cluster 1
+53,College Point,Queens,48,-1,Noise / Unclustered
+54,Columbia Street,Brooklyn,62,1,Cluster 1
+55,Coney Island,Brooklyn,296,7,Cluster 7
+56,Corona,Queens,269,5,Cluster 5
+57,Corona,Queens,10,5,Cluster 5
+58,Country Club,Bronx,6,-1,Noise / Unclustered
+59,Crotona Park,Bronx,2,0,Cluster 0
+60,Crotona Park East,Bronx,119,0,Cluster 0
+61,Crown Heights North,Brooklyn,1045,1,Cluster 1
+62,Crown Heights South,Brooklyn,383,1,Cluster 1
+63,Cypress Hills,Brooklyn,190,-1,Noise / Unclustered
+64,Douglaston,Queens,49,-1,Noise / Unclustered
+65,Downtown Brooklyn/MetroTech,Brooklyn,1392,1,Cluster 1
+66,DUMBO/Vinegar Hill,Brooklyn,704,1,Cluster 1
+67,Dyker Heights,Brooklyn,103,-1,Noise / Unclustered
+68,East Chelsea,Manhattan,77667,1,Cluster 1
+69,East Concourse/Concourse Village,Bronx,340,0,Cluster 0
+70,East Elmhurst,Queens,12283,5,Cluster 5
+71,East Flatbush/Farragut,Brooklyn,401,1,Cluster 1
+72,East Flatbush/Remsen Village,Brooklyn,458,-1,Noise / Unclustered
+73,East Flushing,Queens,43,-1,Noise / Unclustered
+74,East Harlem North,Manhattan,6144,1,Cluster 1
+75,East Harlem South,Manhattan,18246,1,Cluster 1
+76,East New York,Brooklyn,938,-1,Noise / Unclustered
+77,East New York/Pennsylvania Avenue,Brooklyn,244,3,Cluster 3
+78,East Tremont,Bronx,195,0,Cluster 0
+79,East Village,Manhattan,65922,1,Cluster 1
+80,East Williamsburg,Brooklyn,676,-1,Noise / Unclustered
+81,Eastchester,Bronx,127,-1,Noise / Unclustered
+82,Elmhurst,Queens,530,6,Cluster 6
+83,Elmhurst/Maspeth,Queens,182,6,Cluster 6
+84,Eltingville/Annadale/Prince's Bay,Staten Island,2,-1,Noise / Unclustered
+85,Erasmus,Brooklyn,197,1,Cluster 1
+86,Far Rockaway,Queens,275,-1,Noise / Unclustered
+87,Financial District North,Manhattan,12099,1,Cluster 1
+88,Financial District South,Manhattan,7007,1,Cluster 1
+89,Flatbush/Ditmas Park,Brooklyn,595,1,Cluster 1
+90,Flatiron,Manhattan,46490,1,Cluster 1
+91,Flatlands,Brooklyn,461,-1,Noise / Unclustered
+92,Flushing,Queens,250,5,Cluster 5
+93,Flushing Meadows-Corona Park,Queens,510,-1,Noise / Unclustered
+94,Fordham South,Bronx,91,0,Cluster 0
+95,Forest Hills,Queens,543,-1,Noise / Unclustered
+96,Forest Park/Highland Park,Queens,12,-1,Noise / Unclustered
+97,Fort Greene,Brooklyn,1133,1,Cluster 1
+98,Fresh Meadows,Queens,76,-1,Noise / Unclustered
+99,Freshkills Park,Staten Island,0,-1,Noise / Unclustered
+100,Garment District,Manhattan,48081,1,Cluster 1
+101,Glen Oaks,Queens,56,-1,Noise / Unclustered
+102,Glendale,Queens,75,-1,Noise / Unclustered
+103,Governor's Island/Ellis Island/Liberty Island,Manhattan,0,-1,Noise / Unclustered
+104,Governor's Island/Ellis Island/Liberty Island,Manhattan,0,-1,Noise / Unclustered
+105,Governor's Island/Ellis Island/Liberty Island,Manhattan,1,1,Cluster 1
+106,Gowanus,Brooklyn,161,1,Cluster 1
+107,Gramercy,Manhattan,59351,1,Cluster 1
+108,Gravesend,Brooklyn,119,7,Cluster 7
+109,Great Kills,Staten Island,1,-1,Noise / Unclustered
+110,Great Kills Park,Staten Island,0,-1,Noise / Unclustered
+111,Green-Wood Cemetery,Brooklyn,1,1,Cluster 1
+112,Greenpoint,Brooklyn,661,1,Cluster 1
+113,Greenwich Village North,Manhattan,40521,1,Cluster 1
+114,Greenwich Village South,Manhattan,40335,1,Cluster 1
+115,Grymes Hill/Clifton,Staten Island,2,-1,Noise / Unclustered
+116,Hamilton Heights,Manhattan,2196,1,Cluster 1
+117,Hammels/Arverne,Queens,248,-1,Noise / Unclustered
+118,Heartland Village/Todt Hill,Staten Island,9,-1,Noise / Unclustered
+119,Highbridge,Bronx,173,0,Cluster 0
+120,Highbridge Park,Manhattan,15,0,Cluster 0
+121,Hillcrest/Pomonok,Queens,187,-1,Noise / Unclustered
+122,Hollis,Queens,79,-1,Noise / Unclustered
+123,Homecrest,Brooklyn,153,-1,Noise / Unclustered
+124,Howard Beach,Queens,132,-1,Noise / Unclustered
+125,Hudson Sq,Manhattan,13702,1,Cluster 1
+126,Hunts Point,Bronx,105,0,Cluster 0
+127,Inwood,Manhattan,261,0,Cluster 0
+128,Inwood Hill Park,Manhattan,22,0,Cluster 0
+129,Jackson Heights,Queens,913,-1,Noise / Unclustered
+130,Jamaica,Queens,754,8,Cluster 8
+131,Jamaica Estates,Queens,172,-1,Noise / Unclustered
+132,JFK Airport,Queens,145185,-1,Noise / Unclustered
+133,Kensington,Brooklyn,127,1,Cluster 1
+134,Kew Gardens,Queens,303,-1,Noise / Unclustered
+135,Kew Gardens Hills,Queens,151,-1,Noise / Unclustered
+136,Kingsbridge Heights,Bronx,137,0,Cluster 0
+137,Kips Bay,Manhattan,32974,1,Cluster 1
+138,LaGuardia Airport,Queens,89508,5,Cluster 5
+139,Laurelton,Queens,162,-1,Noise / Unclustered
+140,Lenox Hill East,Manhattan,66047,1,Cluster 1
+141,Lenox Hill West,Manhattan,73936,1,Cluster 1
+142,Lincoln Square East,Manhattan,104064,1,Cluster 1
+143,Lincoln Square West,Manhattan,35556,1,Cluster 1
+144,Little Italy/NoLiTa,Manhattan,25614,1,Cluster 1
+145,Long Island City/Hunters Point,Queens,2753,-1,Noise / Unclustered
+146,Long Island City/Queens Plaza,Queens,1491,1,Cluster 1
+147,Longwood,Bronx,105,0,Cluster 0
+148,Lower East Side,Manhattan,27959,1,Cluster 1
+149,Madison,Brooklyn,126,-1,Noise / Unclustered
+150,Manhattan Beach,Brooklyn,82,9,Cluster 9
+151,Manhattan Valley,Manhattan,24374,1,Cluster 1
+152,Manhattanville,Manhattan,1960,1,Cluster 1
+153,Marble Hill,Manhattan,49,0,Cluster 0
+154,Marine Park/Floyd Bennett Field,Brooklyn,58,-1,Noise / Unclustered
+155,Marine Park/Mill Basin,Brooklyn,226,-1,Noise / Unclustered
+156,Mariners Harbor,Staten Island,4,-1,Noise / Unclustered
+157,Maspeth,Queens,290,-1,Noise / Unclustered
+158,Meatpacking/West Village West,Manhattan,23713,1,Cluster 1
+159,Melrose South,Bronx,289,0,Cluster 0
+160,Middle Village,Queens,97,-1,Noise / Unclustered
+161,Midtown Center,Manhattan,143445,1,Cluster 1
+162,Midtown East,Manhattan,106693,1,Cluster 1
+163,Midtown North,Manhattan,85670,1,Cluster 1
+164,Midtown South,Manhattan,64895,1,Cluster 1
+165,Midwood,Brooklyn,255,-1,Noise / Unclustered
+166,Morningside Heights,Manhattan,13800,1,Cluster 1
+167,Morrisania/Melrose,Bronx,289,0,Cluster 0
+168,Mott Haven/Port Morris,Bronx,662,0,Cluster 0
+169,Mount Hope,Bronx,208,0,Cluster 0
+170,Murray Hill,Manhattan,83051,1,Cluster 1
+171,Murray Hill-Queens,Queens,79,-1,Noise / Unclustered
+172,New Dorp/Midland Beach,Staten Island,2,-1,Noise / Unclustered
+173,North Corona,Queens,82,5,Cluster 5
+174,Norwood,Bronx,142,0,Cluster 0
+175,Oakland Gardens,Queens,56,-1,Noise / Unclustered
+176,Oakwood,Staten Island,2,-1,Noise / Unclustered
+177,Ocean Hill,Brooklyn,354,3,Cluster 3
+178,Ocean Parkway South,Brooklyn,60,-1,Noise / Unclustered
+179,Old Astoria,Queens,639,2,Cluster 2
+180,Ozone Park,Queens,105,-1,Noise / Unclustered
+181,Park Slope,Brooklyn,981,1,Cluster 1
+182,Parkchester,Bronx,232,0,Cluster 0
+183,Pelham Bay,Bronx,47,-1,Noise / Unclustered
+184,Pelham Bay Park,Bronx,2,-1,Noise / Unclustered
+185,Pelham Parkway,Bronx,125,0,Cluster 0
+186,Penn Station/Madison Sq West,Manhattan,104505,1,Cluster 1
+187,Port Richmond,Staten Island,2,-1,Noise / Unclustered
+188,Prospect-Lefferts Gardens,Brooklyn,720,1,Cluster 1
+189,Prospect Heights,Brooklyn,344,1,Cluster 1
+190,Prospect Park,Brooklyn,53,1,Cluster 1
+191,Queens Village,Queens,258,-1,Noise / Unclustered
+192,Queensboro Hill,Queens,65,-1,Noise / Unclustered
+193,Queensbridge/Ravenswood,Queens,2180,1,Cluster 1
+194,Randalls Island,Manhattan,98,2,Cluster 2
+195,Red Hook,Brooklyn,328,1,Cluster 1
+196,Rego Park,Queens,236,-1,Noise / Unclustered
+197,Richmond Hill,Queens,488,-1,Noise / Unclustered
+198,Ridgewood,Queens,209,-1,Noise / Unclustered
+199,Rikers Island,Bronx,2,-1,Noise / Unclustered
+200,Riverdale/North Riverdale/Fieldston,Bronx,98,-1,Noise / Unclustered
+201,Rockaway Park,Queens,80,-1,Noise / Unclustered
+202,Roosevelt Island,Manhattan,167,1,Cluster 1
+203,Rosedale,Queens,203,-1,Noise / Unclustered
+204,Rossville/Woodrow,Staten Island,1,-1,Noise / Unclustered
+205,Saint Albans,Queens,342,-1,Noise / Unclustered
+206,Saint George/New Brighton,Staten Island,6,-1,Noise / Unclustered
+207,Saint Michaels Cemetery/Woodside,Queens,213,-1,Noise / Unclustered
+208,Schuylerville/Edgewater Park,Bronx,118,-1,Noise / Unclustered
+209,Seaport,Manhattan,4480,1,Cluster 1
+210,Sheepshead Bay,Brooklyn,211,9,Cluster 9
+211,SoHo,Manhattan,20194,1,Cluster 1
+212,Soundview/Bruckner,Bronx,123,0,Cluster 0
+213,Soundview/Castle Hill,Bronx,300,0,Cluster 0
+214,South Beach/Dongan Hills,Staten Island,4,-1,Noise / Unclustered
+215,South Jamaica,Queens,595,8,Cluster 8
+216,South Ozone Park,Queens,732,-1,Noise / Unclustered
+217,South Williamsburg,Brooklyn,160,1,Cluster 1
+218,Springfield Gardens North,Queens,337,-1,Noise / Unclustered
+219,Springfield Gardens South,Queens,446,-1,Noise / Unclustered
+220,Spuyten Duyvil/Kingsbridge,Bronx,153,0,Cluster 0
+221,Stapleton,Staten Island,4,-1,Noise / Unclustered
+222,Starrett City,Brooklyn,255,-1,Noise / Unclustered
+223,Steinway,Queens,677,2,Cluster 2
+224,Stuy Town/Peter Cooper Village,Manhattan,3703,1,Cluster 1
+225,Stuyvesant Heights,Brooklyn,582,4,Cluster 4
+226,Sunnyside,Queens,2596,-1,Noise / Unclustered
+227,Sunset Park East,Brooklyn,102,-1,Noise / Unclustered
+228,Sunset Park West,Brooklyn,211,-1,Noise / Unclustered
+229,Sutton Place/Turtle Bay North,Manhattan,55207,1,Cluster 1
+230,Times Sq/Theatre District,Manhattan,106294,1,Cluster 1
+231,TriBeCa/Civic Center,Manhattan,37038,1,Cluster 1
+232,Two Bridges/Seward Park,Manhattan,3735,1,Cluster 1
+233,UN/Turtle Bay South,Manhattan,33584,1,Cluster 1
+234,Union Sq,Manhattan,76146,1,Cluster 1
+235,University Heights/Morris Heights,Bronx,261,0,Cluster 0
+236,Upper East Side North,Manhattan,136432,1,Cluster 1
+237,Upper East Side South,Manhattan,142681,1,Cluster 1
+238,Upper West Side North,Manhattan,64215,1,Cluster 1
+239,Upper West Side South,Manhattan,88458,1,Cluster 1
+240,Van Cortlandt Park,Bronx,18,-1,Noise / Unclustered
+241,Van Cortlandt Village,Bronx,164,0,Cluster 0
+242,Van Nest/Morris Park,Bronx,194,0,Cluster 0
+243,Washington Heights North,Manhattan,495,0,Cluster 0
+244,Washington Heights South,Manhattan,1892,0,Cluster 0
+245,West Brighton,Staten Island,2,-1,Noise / Unclustered
+246,West Chelsea/Hudson Yards,Manhattan,50546,1,Cluster 1
+247,West Concourse,Bronx,326,0,Cluster 0
+248,West Farms/Bronx River,Bronx,142,0,Cluster 0
+249,West Village,Manhattan,66217,1,Cluster 1
+250,Westchester Village/Unionport,Bronx,110,0,Cluster 0
+251,Westerleigh,Staten Island,5,-1,Noise / Unclustered
+252,Whitestone,Queens,71,-1,Noise / Unclustered
+253,Willets Point,Queens,14,5,Cluster 5
+254,Williamsbridge/Olinville,Bronx,231,-1,Noise / Unclustered
+255,Williamsburg (North Side),Brooklyn,1109,1,Cluster 1
+256,Williamsburg (South Side),Brooklyn,911,1,Cluster 1
+257,Windsor Terrace,Brooklyn,78,1,Cluster 1
+258,Woodhaven,Queens,185,-1,Noise / Unclustered
+259,Woodlawn/Wakefield,Bronx,119,-1,Noise / Unclustered
+260,Woodside,Queens,813,6,Cluster 6
+261,World Trade Center,Manhattan,12884,1,Cluster 1
+262,Yorkville East,Manhattan,42785,1,Cluster 1
+263,Yorkville West,Manhattan,59789,1,Cluster 1

@@ -1,0 +1,61 @@
+
+METROPULSE - DEMAND FORECASTING MODEL EVALUATION
+=================================================
+
+Dataset: January 2024 NYC Yellow Taxi Trips
+
+1. DATASET
+----------
+Total records: 576
+Training records: 460
+Testing records: 116
+
+Training period:
+2024-01-08 00:00:00 to
+2024-01-27 03:00:00
+
+Testing period:
+2024-01-27 04:00:00 to
+2024-01-31 23:00:00
+
+2. MODEL PERFORMANCE
+--------------------
+                model     MAE    RMSE     R2
+        Random Forest 269.405 388.332 0.9718
+Seasonal Naive (168h) 269.862 418.528 0.9673
+    Gradient Boosting 338.063 442.900 0.9634
+    Linear Regression 398.353 506.199 0.9521
+
+3. BEST PERFORMING MODEL
+------------------------
+Random Forest
+
+Selection metric: Lowest MAE
+
+4. EVALUATION METRICS
+---------------------
+MAE: Mean Absolute Error
+RMSE: Root Mean Squared Error
+R2: Coefficient of Determination
+
+5. EVALUATION APPROACH
+----------------------
+Chronological train-test split.
+No random shuffling.
+
+Forecasting evaluation uses observed historical
+lag and rolling features for each test hour.
+This represents rolling one-hour-ahead prediction,
+not a multi-day forecast made all at once.
+
+6. OUTPUT FILES
+---------------
+ml/evaluation/forecast_model_comparison.csv
+ml/evaluation/forecast_test_predictions.csv
+ml/evaluation/forecast_evaluation.json
+ml/artifacts/best_demand_forecasting_model.joblib
+reports/figures/demand_forecast_comparison.png
+reports/figures/forecast_model_comparison.png
+
+=================================================
+END OF REPORT

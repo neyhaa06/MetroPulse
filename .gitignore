@@ -1,0 +1,60 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and large processed datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/demand_features_2024_01.csv
+!data/processed/hourly_demand_2024_01.csv
+
+# External data: exclude downloaded ZIP, retain required zone files
+data/external/taxi_zones.zip
+
+# Model artifacts: retain the trained forecasting model
+*.pkl
+*.joblib
+!ml/artifacts/best_demand_forecasting_model.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local environment snapshot
+requirements-installed.txt

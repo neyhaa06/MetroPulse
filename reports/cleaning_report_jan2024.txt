@@ -1,0 +1,37 @@
+
+METROPULSE - DATA CLEANING REPORT
+=================================
+
+Original dataset: yellow_tripdata_2024-01.parquet
+Cleaned dataset: yellow_trips_clean_2024_01.parquet
+
+1. ROW COUNTS
+-------------
+Original rows: 2,964,624
+Pickups outside January 2024: 18
+Invalid or zero-duration records: 870
+Final cleaned rows: 2,963,736
+Rows removed: 888
+
+2. CLEANING RULES
+-----------------
+- Keep pickup timestamps within January 2024.
+- Remove trips with drop-off time less than or equal to pickup time.
+- Preserve missing optional values.
+- Preserve negative fares and total amounts.
+- Add trip duration and pickup time features.
+- Add flags for negative financial values.
+- Keep the original raw dataset unchanged.
+
+3. FINAL DATE RANGE
+-------------------
+First pickup: 2024-01-01 00:00:00
+Last pickup: 2024-01-31 23:59:55
+
+4. RETAINED NEGATIVE VALUES
+---------------------------
+Negative fares: 37,443
+Negative total amounts: 35,499
+
+=================================
+END OF REPORT

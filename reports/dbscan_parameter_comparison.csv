@@ -1,0 +1,7 @@
+eps_metres,min_samples,number_of_clusters,clustered_zones,noise_zones,clustered_pickup_trips,noise_pickup_trips,clustered_trip_percentage
+500,3,0,0,258,0,2951871,0.0
+750,3,6,38,220,1983722,968149,67.2
+1000,3,9,73,185,2479324,472547,83.99
+1250,3,10,125,133,2652946,298925,89.87
+1500,3,10,158,100,2784055,167816,94.31
+2000,3,3,219,39,2802864,149007,94.95

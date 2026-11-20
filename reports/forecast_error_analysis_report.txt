@@ -1,0 +1,68 @@
+
+METROPULSE - FORECAST ERROR ANALYSIS
+=====================================
+
+Dataset: January 2024 NYC Yellow Taxi Trips
+
+1. SELECTED MODEL
+-----------------
+Random Forest
+
+2. FORECAST PERFORMANCE
+-----------------------
+Mean Absolute Error: 269.405
+Root Mean Squared Error: 388.332
+Mean Error (Actual - Predicted): -76.624
+
+Average Actual Demand: 4105.72
+Average Predicted Demand: 4182.34
+
+3. ERROR INTERPRETATION
+-----------------------
+Positive mean error indicates average underprediction.
+Negative mean error indicates average overprediction.
+
+4. HOURLY ERROR ANALYSIS
+------------------------
+ hour  average_actual_demand  average_predicted_demand  average_absolute_error  number_of_observations
+    0                2672.75               2391.267884              453.093274                       4
+    1                1766.25               1832.154114              180.610424                       4
+    2                1165.00               1379.164538              214.164538                       4
+    3                 818.25                827.469686               67.566971                       4
+    4                 668.40                664.801056               60.101297                       5
+    5                 561.80                604.941043               88.207298                       5
+    6                1209.80               1196.798971               31.073043                       5
+    7                2597.40               2546.344926              125.177075                       5
+    8                3685.60               3666.954262              221.510261                       5
+    9                4185.80               4297.822117              200.940718                       5
+   10                4569.80               4622.780620              276.632492                       5
+   11                4966.80               4932.095116              194.644542                       5
+   12                5562.20               5342.569910              219.630090                       5
+   13                5897.20               5768.370402              342.888934                       5
+   14                6103.80               6047.956213              185.861637                       5
+   15                6082.60               6250.776825              189.424236                       5
+   16                6002.00               6296.904708              310.220722                       5
+   17                6445.40               6658.479482              342.960563                       5
+   18                6781.00               6869.456722              330.440592                       5
+   19                5882.40               6292.329898              598.335228                       5
+   20                5403.80               5644.582200              427.056679                       5
+   21                5518.60               5458.861099              463.358011                       5
+   22                4698.20               4832.571801              263.647389                       5
+   23                3292.20               3890.835780              645.736709                       5
+
+5. FEATURE IMPORTANCE
+---------------------
+Generated successfully.
+
+6. OUTPUT FILES
+---------------
+ml/evaluation/forecast_error_details.csv
+ml/evaluation/forecast_error_by_hour.csv
+reports/figures/forecast_residual_distribution.png
+reports/figures/forecast_error_by_hour.png
+
+ml/evaluation/forecast_feature_importance.csv
+reports/figures/forecast_feature_importance.png
+
+=====================================
+END OF REPORT

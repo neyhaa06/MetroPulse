@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2
+Random Forest,269.405,388.332,0.9718
+Seasonal Naive (168h),269.862,418.528,0.9673
+Gradient Boosting,338.063,442.9,0.9634
+Linear Regression,398.353,506.199,0.9521

@@ -1,0 +1,21 @@
+
+METROPULSE - TAXI ZONE VALIDATION
+==================================
+
+Total cleaned trips: 2,963,736
+Total geographical zones: 263
+Distinct pickup location IDs: 260
+
+Matched pickup demand: 2,951,871
+Unmatched pickup demand: 11,865
+
+Unmatched location IDs:
+ LocationID  pickup_trips
+        264         10268
+        265          1597
+
+JFK Airport pickup demand:
+145,185
+
+==================================
+END OF REPORT

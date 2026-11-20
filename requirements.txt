@@ -1,0 +1,37 @@
+
+# Data processing
+numpy
+pandas
+pyarrow
+duckdb
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+folium
+streamlit-folium
+geopandas
+
+# Machine learning and forecasting
+scikit-learn
+statsmodels
+joblib
+shap
+
+# Optimization
+pulp
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# Dashboard and utilities
+streamlit
+requests
+python-dotenv
+
+# Testing
+pytest
+httpx

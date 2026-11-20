@@ -1,0 +1,15 @@
+METROPULSE - SHAP EXPLAINABILITY REPORT
+==================================================
+
+Model: Random Forest Demand Forecasting
+Records analyzed: 200
+
+TOP 5 INFLUENTIAL FEATURES
+--------------------------------------------------
+lag_1: 1155.0118
+lag_168: 725.9101
+hour: 210.5303
+lag_24: 69.8165
+hour_cos: 53.4944
+
+SHAP values describe each feature's contribution to individual model predictions.

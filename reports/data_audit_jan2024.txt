@@ -1,0 +1,81 @@
+
+METROPULSE - DATASET AUDIT REPORT
+=================================
+
+Dataset: yellow_tripdata_2024-01.parquet
+
+1. DATASET OVERVIEW
+-------------------
+Total rows: 2,964,624
+Total columns: 19
+Exact duplicate rows: 0
+
+2. DATASET COLUMNS
+------------------
+VendorID
+tpep_pickup_datetime
+tpep_dropoff_datetime
+passenger_count
+trip_distance
+RatecodeID
+store_and_fwd_flag
+PULocationID
+DOLocationID
+payment_type
+fare_amount
+extra
+mta_tax
+tip_amount
+tolls_amount
+improvement_surcharge
+total_amount
+congestion_surcharge
+Airport_fee
+
+3. DATE RANGE
+-------------
+Pickup start: 2002-12-31 22:59:39
+Pickup end: 2024-02-01 00:01:15
+Drop-off start: 2002-12-31 23:05:41
+Drop-off end: 2024-02-02 13:56:52
+
+4. MISSING VALUES
+-----------------
+               column  missing_values  missing_percentage
+             VendorID               0                0.00
+ tpep_pickup_datetime               0                0.00
+tpep_dropoff_datetime               0                0.00
+      passenger_count          140162                4.73
+        trip_distance               0                0.00
+           RatecodeID          140162                4.73
+   store_and_fwd_flag          140162                4.73
+         PULocationID               0                0.00
+         DOLocationID               0                0.00
+         payment_type               0                0.00
+          fare_amount               0                0.00
+                extra               0                0.00
+              mta_tax               0                0.00
+           tip_amount               0                0.00
+         tolls_amount               0                0.00
+improvement_surcharge               0                0.00
+         total_amount               0                0.00
+ congestion_surcharge          140162                4.73
+          Airport_fee          140162                4.73
+
+5. DATA QUALITY CHECKS
+----------------------
+Drop-off before pickup: 56
+Negative fare amounts: 37,448
+Negative trip distances: 0
+Negative total amounts: 35,504
+
+6. BASIC STATISTICS
+-------------------
+Average trip distance: 3.65
+Average fare amount: 18.18
+Average total amount: 26.80
+Minimum passenger count: 0
+Maximum passenger count: 9
+
+=================================
+END OF REPORT

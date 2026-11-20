@@ -1,0 +1,33 @@
+
+METROPULSE - EXPLORATORY DATA ANALYSIS
+======================================
+
+Dataset: January 2024 Yellow Taxi Trips
+
+1. TOTAL TRIPS
+--------------
+2,963,736
+
+2. HOURLY DEMAND
+----------------
+Busiest pickup hour: 18:00
+Trips: 212,741
+
+3. DAILY DEMAND
+---------------
+Busiest date: 2024-01-27 00:00:00
+Trips: 110,473
+
+4. WEEKDAY DEMAND
+-----------------
+Busiest weekday: Wednesday
+Trips: 494,900
+
+5. TOP PICKUP ZONE
+------------------
+Zone: JFK Airport
+Borough: Queens
+Trips: 145,185
+
+======================================
+END OF REPORT

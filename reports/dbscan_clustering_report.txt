@@ -1,0 +1,45 @@
+
+METROPULSE - DBSCAN SPATIAL CLUSTERING
+=======================================
+
+Dataset: January 2024 Yellow Taxi Trips
+
+1. MODEL CONFIGURATION
+----------------------
+Algorithm: DBSCAN
+Distance metric: Euclidean
+Epsilon: 1500 metres
+Minimum samples: 3
+Input: Active taxi-zone centroids
+Coordinate system: EPSG:26918
+
+2. CLUSTERING RESULTS
+---------------------
+Active taxi zones: 258
+Number of clusters: 10
+Zones assigned to clusters: 158
+Noise / unclustered zones: 100
+
+3. CLUSTER SUMMARY
+------------------
+ cluster_id  number_of_zones  total_pickup_trips  average_pickup_trips  maximum_zone_demand
+          1               91             2663014              29263.89               143445
+          5                7              102416              14630.86                89508
+          0               37                8455                228.51                 1892
+          2                5                3236                647.20                 1811
+          8                3                1787                595.67                  754
+          6                3                1525                508.33                  813
+          4                3                1465                488.33                  582
+          3                3                1142                380.67                  544
+          7                3                 560                186.67                  296
+          9                3                 455                151.67                  211
+
+4. OUTPUT FILES
+---------------
+reports/dbscan_cluster_summary.csv
+reports/dbscan_zone_assignments.csv
+reports/dbscan_clusters.html
+reports/figures/dbscan_clusters.png
+
+=======================================
+END OF REPORT
